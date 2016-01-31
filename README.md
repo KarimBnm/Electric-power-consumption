@@ -2,7 +2,7 @@
 
 Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
-# The following plots are included for a 2 day period (2007-02-01 and 2007-02-02):
+# The following plots are included for a 2 days period (2007-02-01 and 2007-02-02):
 
 - Histogram of the Global Active Power (in kilowatts)
 - Global Active Power evolution 
